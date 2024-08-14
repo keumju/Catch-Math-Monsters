@@ -5,7 +5,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 캐치!수학몬스터즈 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 2024.07.08~2024.08.06 (총 30일)
     <ul>
-    <li>팀장 최미나</li>
+    <li>팀장</li>
     <li>팀원 김금주, 박채민, 정단비</li>
     <li>디지털교과서를 이용한 학습사이트를 제작한 팀프로젝트입니다. </li>
     </ul>
