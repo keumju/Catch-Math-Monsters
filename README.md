@@ -1,66 +1,151 @@
-<div align= "center">
-    <img src="https://github.com/user-attachments/assets/b649a782-8475-4aa9-8623-560dfad44bc1" />
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 캐치!수학몬스터즈 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 2024.07.08~2024.08.06 (총 30일)
-    <ul>
-    <li>팀장</li>
-    <li>팀원 김금주, 박채민, 정단비</li>
-    <li>디지털교과서를 이용한 학습사이트를 제작한 팀프로젝트입니다. </li>
-    </ul>
-    </div> 
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-        <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-          <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-          </div>
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">✨ Notion </h2> <br> 
-    <div style="text-align: left;"> <a href=https://hickory-rise-dcc.notion.site/M-ms-f15088a98d7a4877ae928b365a5686ae?pvs=74> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://hickory-rise-dcc.notion.site/M-ms-f15088a98d7a4877ae928b365a5686ae?pvs=74"> </a>
-          </div>  <br> 
-    <div style="text-align: left;">  </div> 
-    </div>
-    <div>
-        <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 기획 PPT </h2> <br> 
-          </div>
-<img src="https://github.com/user-attachments/assets/027a2a4e-137e-4df4-b01e-e841c02a3536">
-<img src="https://github.com/user-attachments/assets/a728a2ea-41bf-447a-9fd2-870a2662004f">
-<img src="https://github.com/user-attachments/assets/720753d9-8ed4-4e47-a50c-4f2ae4f6c9f8">
-<img src="https://github.com/user-attachments/assets/62844b90-4409-4191-95a2-62b291d689eb">
-<img src="https://github.com/user-attachments/assets/444d38cd-c34b-4116-b829-8d4a7aedc4cf">
-<img src="https://github.com/user-attachments/assets/374376fe-b510-4ec1-afad-04b0c0df8d1c">
-<img src="https://github.com/user-attachments/assets/692f1e02-c070-4de0-9b28-f6f4c260cfd4">
-<img src="https://github.com/user-attachments/assets/ab716f79-6a23-4bec-a37f-df6d9e8226c9">
-<img src="https://github.com/user-attachments/assets/7dd8bad2-0884-4016-b9ab-9afce8196b07">
-<img src="https://github.com/user-attachments/assets/53a8aebc-b517-4495-a5ff-7771cc01d4e1">
-<img src="https://github.com/user-attachments/assets/f9b9efd8-dacc-4393-a3f0-438edb04fbfe">
-<img src="https://github.com/user-attachments/assets/77855c82-0e73-46c7-bb59-c04e7d06fd8f">
-<img src="https://github.com/user-attachments/assets/30cec9cd-7458-413e-97dc-e6879f88e8eb">
-<img src="https://github.com/user-attachments/assets/67636043-518e-4666-a8b3-d72d8a8e0869">
-<img src="https://github.com/user-attachments/assets/0040a6f1-6a78-40b3-9d92-4c4547ff9837">
-<img src="https://github.com/user-attachments/assets/432a821e-cfa0-4203-82fb-59ecadc1b54c">
-<img src="https://github.com/user-attachments/assets/55a767df-a335-40bf-aedf-ee17003df770">
-<img src="https://github.com/user-attachments/assets/2be0ea2f-e489-4c65-95d3-448ac1ca1bba">
-<img src="https://github.com/user-attachments/assets/a0415b27-1e2c-405f-8183-047b1aa52f61">
-<img src="https://github.com/user-attachments/assets/f99ef80e-0bcf-462a-bf2d-b308ee906530">
-<img src="https://github.com/user-attachments/assets/90221b0f-d526-4df0-b9f4-9c87bb5071be">
-<img src="https://github.com/user-attachments/assets/ccaaca7c-2ec5-4a6c-8c47-18b94184dc46">
-<img src="https://github.com/user-attachments/assets/efda8eb7-7e7d-4073-b671-cb97bc1d8ad6">
-<img src="https://github.com/user-attachments/assets/a035803c-411c-4a78-96d9-b949f2e19577">
-<img src="https://github.com/user-attachments/assets/c50981ff-a64a-4caf-94d3-3ca7aeea7ff9">
-<img src="https://github.com/user-attachments/assets/3beb799c-baf9-4f99-83c0-99d4012afcdd">
-<img src="https://github.com/user-attachments/assets/7c04199f-cc72-4b1d-b7e6-66e44b9cc88c">
-        </div>
-    
+# 캐치! 수학 몬스터즈<img src="https://github.com/user-attachments/assets/ad32e9d4-6c1f-4333-8f7a-7ff60ed85abf" align=left width=70>
 
+> 디지털 교과서를 이용한 수학 학습 사이트 ✍️
+
+<br />
+
+![캐치수학](https://github.com/user-attachments/assets/5ae139c3-d38c-4f97-acb1-48d73aaf08c8)
+
+- 배포 URL : https://pichiss.github.io/TeamMMs/
+- 프로젝트 기획서 : [catch.pdf](https://github.com/user-attachments/files/16616892/catch.pdf)
+- 피그마 디자인 : https://url.kr/8bidww
+
+<br>
+ 
+## 💭 프로젝트 소개
+
+- 초등학생이 수학 과목을 더 재미있게 학습하는 것에 초점을 둔 사이트입니다.
+- 캐릭터와 스토리를 더해 수학에 대한 접근성을 높일 수 있도록 제작하였습니다.
+
+<br>
+
+## ⭐️ Team Member - `Team M&M's`
+
+|<img src="https://github.com/user-attachments/assets/07daba8e-4745-40a8-8013-0effc6a26e4b" width=150>|<img src="https://github.com/user-attachments/assets/31c4e327-d44d-431a-aa5e-fe26def2d2a3" width=150>|<img src="https://github.com/user-attachments/assets/7b93cd9f-f560-4642-b2f3-bb9bdfc5fea5" width=150>|<img src="https://github.com/user-attachments/assets/d3daac36-69b5-4a50-84a1-8cd374c366b5" width=150>|
+|:--:|:--:|:--:|:--:|
+|**최미나**|**김금주**|**박채민**|**정단비**|
+|[@pichiss](https://github.com/pichiss)|[@keumju](https://github.com/keumju)|[@pcm5433](https://github.com/pcm5433)|[@JURAMII](https://github.com/JURAMII)|
+
+#### 김금주 ✅
+`로그인 및 회원가입` `Header` `탭 메뉴(기능 구현)` `메인 페이지` `사이트 소개 페이지` `학습하기(해설보기 및 도움말)`
+
+#### 최미나
+`탭 메뉴(디자인)` `학습하기(포인트샵)` `알림나무(FAQ)` `학부모 코너(내정보 및 1:1 문의)` `PWA`
+
+#### 박채민
+`학습하기(3D)` `서브 헤더` `학습하기(메인/문제 페이지, 오답노트, 채점하기)` `학부모 코너(포인트 내역)`
+
+#### 정단비
+`Footer` `학습하기(학습 영상, 질문하기, 힌트보기)` `알림나무(공지사항 및 이벤트)` `학부모 코너(학습 현황)`
+
+<br>
+
+## ⭐️ 프로젝트 설명
+> 아래의 내용은 제가 진행한 내용만 작성하였습니다.
+
+### 💭 프로젝트 기여도
+
+- 기획 : 20%
+- 디자인 : 30%
+- 개발 : 30%
+
+<br/>
+
+## 1. 개발 기간 및 환경
+
+### 개발 기간
+- 전체 개발 기간 : 2024.07.08 ~ 2024.08.06
+
+### 개발 환경
+- 개발 도구 : Vite, HTML, CSS, React, JavaScript, Node.js, Three.js
+- 협업 툴 : GitHub, Notion
+- 디자인 툴 : Figma, Adobe Photoshop, Adobe Illustrator
+- 기타 : Kakao API, Swiper 라이브러리
+
+
+<br>
+
+## 2. 구현 기능
+
+### [메인화면]
+- 캐릭터 애니메이션 및 마우스 오버 기능으로 시각적 효과를 강조하였습니다.
+- 클릭 요소
+  - 탑 버튼 : 클릭시 페이지 상단으로 자연스럽게 이동이 가능하도록 구현하였습니다.
+  - 무료체험 버튼 & 하단 배너 : 로그인을 하지 않았을 경우(유저 정보가 들어오지 않았을 경우), 로그인 페이지로 이동하게 되고, 로그인을 했을 경우(유저 정보가 있을 경우) 학습하기 페이지로 이동할 수 있도록 제작하였습니다.
+
+![메인](https://github.com/user-attachments/assets/bcdf5703-fea3-4d50-a6eb-0655de2c5cfe)
+
+### [Header]
+- Router를 사용하여 각 페이지를 연결하였습니다. 
+  - 학습하기 페이지의 경우 페이지에 진입했을 때, Header 부분이 사라져야 하기 때문에 useState와 삼항연산자를 사용하여 페이지가 변경 될 수 있도록 제작하였습니다.
+- 로고 클릭시 메인 페이지 상단으로 이동하도록 제작하였습니다.
+- 학습하기 페이지 & 학부모 코너 페이지의 
+  - 로그인을 하지 않았을 경우, '로그인해주세요' 알림이 뜨면서 로그인 페이지로 이동하게 되고, 로그인을 했을 경우 해당 페이지로 이동할 수 있도록 제작하였습니다.
+- 로그인 & 회원가입 
+  - 미로그인시 로그인 및 회원가입 페이지로 각각 이동이 가능하며, 로그인 후에는 유저 이름으로 된 프로필 뱃지로 변경되게 됩니다.
+  - 프로필 뱃지 클릭시 유저의 이름과 사진, 현재 가진 포인트와 로그아웃 버튼이 팝업으로 나타나게 됩니다.
+
+### [로그인]
+- Kakao Login API
+  - 로그인의 경우 카카오 API만을 사용하여 제작하였습니다.
+  - API를 호출하여 사용자 정보를 받아오고, user에 사용자 정보를 넣어 App.jsx를 통해 필요한 페이지에 넘겨줄 수 있도록 제작하였습니다.
+  - 토큰을 관리하여 인증 상태를 유지 할 수 있도록 하였습니다.
+
+![로그인](https://github.com/user-attachments/assets/f23a7af0-ffc4-4076-b91b-0f31e30c3e76)
+
+### [탭 메뉴]
+> 탭메뉴는 사용되는 곳이 많아 페이지 특성에 따라 두가지 방식으로 제작하였습니다.
+
+- 알림나무 & 학부모 코너
+  - 해당 탭메뉴는 url을 사용하여 탭 메뉴의 기능을 구현하였습니다.
+  - useLocation과 split을 사용하여 url을 가져온 후, 일치하는 데이터의 텍스트와 가져온 url이 같은 경우 디자인 및 링크를 변경 할 수 있도록 제작하였습니다.
+- 학습하기(도움말)
+  - 해당 탭메뉴는 useState를 사용하여 탭 메뉴의 기능을 구현하였습니다.
+  - 페이지 변경 : useState에 들어온 텍스트가 지정된 텍스트와 같은 경우 페이지가 변경 될 수 있도록 제작하였습니다.
+  - 스타일 변경 : 클릭한 리스트의 id와 데이터의 id가 같은 경우 지정된 스타일이 변경 될 수 있도록 제작하였습니다.
+
+![탭메뉴](https://github.com/user-attachments/assets/be6abb3d-08a6-4bf5-9acc-20aa49d62b2b)
+
+### [학습하기(도움말)]
+- (탭 메뉴에 1차 설명)
+- 각 항목의 내용은 Swiper 라이브러리를 사용하여 기능을 구현하였습니다.
+
+![도움말](https://github.com/user-attachments/assets/0a18137d-372f-4441-835d-c90486e006ec)
+
+### [사이트 소개 페이지 - 캐치! 수학 몬스터즈]
+- 해당 페이지는 전체적인 디자인의 통일성을 강조하기 위해 일관된 스타일을 유지 할 수 있도록 하였습니다.
+- CSS 모듈화로 좀 더 효율적인 관리가 가능하도록 제작하였습니다.
+
+![사이트소개](https://github.com/user-attachments/assets/1e37db6c-b354-4242-8062-dd46aa924c5b)
+
+### [기타]
+- 전체 페이지의 반응형을 구현하여 다양한 기기에서 사용자의 접근성을 높일 수 있도록 제작하였습니다.
+
+<br>
+
+## 3. 어려웠던 부분
+
+### [로그인]
+로그인 실행 후, 로그인 페이지에 그대로 남아있거나 프로필 뱃지가 활성화 되지 않는 현상이 있었습니다. 여러 방법을 시도해 보다가 새로고침이 되지 않아 생기는 문제로 인식을 하였고, window.location.href로 메인 페이지의 url을 로그인 함수에 넣어주어 문제를 해결 할 수 있었습니다.
+
+### [탭메뉴]
+알림나무 & 학부모 코너의 url의 경우 링크가 변경 될때마다 바로바로 스타일이 변경이 되었지만, 도움말 페이지의 경우 사용자가 클릭을 해야만 초기 스타일이 들어온다는 문제가 있었습니다. 그래서 추가적으로 useRef와 if문을 사용한 추가 함수를 작성하여 해당 문제를 해결하였습니다.
+
+<img width="1259" alt="스크린샷 2024-08-15 오후 1 41 39" src="https://github.com/user-attachments/assets/6578a92b-738b-454d-baf9-529d44724a5a">
     
+<br>
+
+## 4. 개선 목표
+- 탭 메뉴 : 클릭시 상단으로 올라가면서 페이지 이동 할 수 있도록 수정
+  - 2024.08.07 탭 메뉴 수정 사항 적용 완료
+
+<img width="1259" alt="스크린샷 2024-08-15 오후 1 39 33" src="https://github.com/user-attachments/assets/8ff38c1d-dbf2-4997-bdbb-f90b12c0521e">
+
+
+
+
+<br>
+
+## 5. 프로젝트 후기 🍀
+
+이번 프로젝트에서는 새로운 기능을 구현해 볼 수 있는 기회를 가졌고, 하나의 기능을 여러 방식으로 시도해보는 값진 시간을 보냈습니다. 이 과정에서 처음 도전해보는 기능들도 성공적으로 구현할 수 있어 큰 뿌듯함을 느꼈습니다. 이번 경험을 통해 더 많은 가능성을 발견하게 되었고, 앞으로도 다양한 시도를 통해 계속 성장해 나가고자 합니다.
